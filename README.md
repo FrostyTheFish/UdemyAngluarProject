@@ -1,1 +1,5 @@
 # UdemyAngluarProject
+
+## Setup
+
+npm install
